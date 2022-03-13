@@ -5,7 +5,7 @@ import NotificationsIcon from '@mui/icons-material/Notifications';
 function RightSection() {
     return (
         <>
-            <div className=' w-2/4 px-6 h-full text-center'>
+            <div className='px-6 h-full text-center'>
                 <div className='m-auto mt-7 text-start w-100 h-100'>
                     <div className='flex justify-between items-center'>
                         <div className='flex justify-center items-center h-10 w-10 rounded-lg bg-[#262626]'>

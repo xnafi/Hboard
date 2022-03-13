@@ -3,7 +3,7 @@ import React from 'react'
 function RightSection() {
     return (
         <>
-            <div className=' bg-[#121212]  space-x-4 space-y-4 px-4 text-left w-6/12'>
+            <div className=' bg-[#121212] space-x-4 space-y-4 px-4 text-left '>
                 <div className='mt-7 text-start w-100 h-100'>
                     {/*************************** HBoard **************************/}
 
